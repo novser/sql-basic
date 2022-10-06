@@ -25,3 +25,4 @@ where upper(city_of_living) = 'MOSCOW';
 
 select * from persons
 where age > 27
+order by age DESC
